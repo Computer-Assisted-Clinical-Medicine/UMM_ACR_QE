@@ -28,6 +28,14 @@ Quality Tests:
 Procedures have been implemented to evaluate the accuracy of all methods based on synthetic images with predefined distortions. The test are performed in the .m-files QT_Test...
 Each files stores the results in some .mat files in "QT Results". After all evaluations have been performed, QT_CalculateFinalResults.m can be used to perform the final evalution, i.e. print the mean values and STD as well as the maximal error for each evaluated parameter to the command.
 
+
+Testdata:
+---------
+Test data sets are available here:
+
+Davids, M.; Zöllner, F.; Ruttorf, M.; Nees, F.; Flor, H.; Schumann, G.; Schad, L.; the Imagen Consortium, 2019, "Fully-automated quality assurance in multi-center studies using MRI phantom measurements [Dataset]", https://doi.org/10.11588/data/RR5BMF, heiDATA, V1
+
+
 References:
 -----------
 
