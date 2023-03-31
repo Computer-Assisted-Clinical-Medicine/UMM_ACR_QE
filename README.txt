@@ -46,4 +46,4 @@ Fully-automated quality assurance in multi-center studies using MRI phantom meas
 Magn Reson Imaging, 2014, 32, pp.771-780 
 http://dx.doi.org/10.1016/j.mri.2014.01.017
 
-[DOI](https://zenodo.org/badge/531500734.svg)](https://zenodo.org/badge/latestdoi/531500734)
+[![DOI](https://zenodo.org/badge/531500734.svg)](https://zenodo.org/badge/latestdoi/531500734)
